@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
-import router from '../src/components/routers/router'
+import router from '../src/routers/router'
 import VueRouter from 'vue-router'
+import store from './store/index.js'
 import  './style.css'
 
 
@@ -11,5 +12,6 @@ Vue.use(VueRouter)
 
 new Vue({
   router,
+  store,
   render: h => h(App),
 }).$mount('#app')
