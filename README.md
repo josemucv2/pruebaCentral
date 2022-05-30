@@ -19,7 +19,7 @@
 
     A nivel de diseño tome la desicion, de realizar la maquetacion vanilla con el fin de demostrar los conocimientos de CSS y el FlexBox. Sin Embargo, para el formulario en los metodos de pago, utilice bootstrap de forma local.. A a nivel de movil, ciertamente, y pido disculpas que no este 100% adaptado, hay ciertos detalles en los diseños en los cuales describire:
          
-* ## Detalles en los diseños
+## Detalles en los diseños
 * Icono de Pagar: EL icono de pagar, tiene varios elementos a considerar, por lo que si tuve complicaciones al momento de mostrarlo en pantalla ya que un elemento se me sobpreponia sobre otro.
 * Icono Central + : dicho icono lo hice responsive eliminando varios elemento al momento de se ingresa desde el movil dejando los vectores que conforma la C y el vector +.
 
