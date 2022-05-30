@@ -43,21 +43,17 @@
             
             </ul>
             
+            <a href="#" class="style-link-nav logout logout-mobile">
+                <span class="text-log text-log-mobile">Cerrar Sesión</span>
+            </a>
             
-            
-                <a href="#" class="style-link-nav logout logout-mobile">
-                    <span class="text-log text-log-mobile">Cerrar Sesión</span>
-                </a>
-                
-                <div class="name-email name-email-mobile">
-                    <img src="../assets/image/IconNavBar/profile.jpg" class="PhotoProfile">
-                    <div class="order-datos">
-                        <span class="name name-mobile">Jose Martinez</span>
-                        <span class="emails emails-mobile ">martinezcaceresjose@gmail.com</span>
-                    </div>
+            <div class="name-email name-email-mobile">
+                <img src="../assets/image/IconNavBar/profile.jpg" class="PhotoProfile">
+                <div class="order-datos">
+                    <span class="name name-mobile">Jose Martinez</span>
+                    <span class="emails emails-mobile ">martinezcaceresjose@gmail.com</span>
                 </div>
-           
-        
+            </div>
         </nav>
 </template>
 

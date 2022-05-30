@@ -17,9 +17,7 @@ export default new Vuex.Store({
         textError: '',
         
     },
-    getters:{
-    
-    },
+
     mutations: {
         crearCuenta:(state) => {
             if (state.nombre == '' || state.accountNumber == '' || state.numberIdentific == '') {
@@ -78,8 +76,6 @@ export default new Vuex.Store({
 
 
 
-    },
-    modules: {
-
     }
+    
 })

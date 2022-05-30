@@ -33,7 +33,7 @@
                 class="form-control form-control-mobile"
                 />
 
-                <input @click="$store.dispatch('crearCuenta')" type="button" value="Añadir" class="btn-success add-account-mobile">
+                <input @click="$store.dispatch('crearCuenta')" type="button" value="Añadir" class="btn-success add-account-mobile"/>
                 
                 <p class="Error">{{ $store.state.textError }}</p>
             </form>
